@@ -1,6 +1,6 @@
 import React from "react";
 import AppSidebar from "../components/Sidebar";
-import AppContent from "../components/appContent";
+import AppContent from "../components/AppContent";
 
 const DefaultLayout = () => {
     return (
